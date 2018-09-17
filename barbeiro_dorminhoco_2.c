@@ -66,3 +66,4 @@ int main() {
   
   return 0;
 }
+//Original de http://www.ic.unicamp.br/~islene/mc514/barbeiro/barbeiro.c
